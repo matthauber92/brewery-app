@@ -1,0 +1,1 @@
+export { default as BreweryPage } from './brewery-home';
